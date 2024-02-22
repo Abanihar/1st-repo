@@ -1,6 +1,6 @@
 # 1st-repo
 Auther - Abanihar Nag
 <br>
-this code is written in java language 
+This code is written in c language 
 <br>
-purpose - to print a equilateral triangle pattern using stars 
+Purpose - to print a equilateral triangle pattern using stars 
